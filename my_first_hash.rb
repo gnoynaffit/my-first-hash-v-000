@@ -31,7 +31,7 @@ def adding
                   "oil paintings" => 3
                  }
   # add 2 muskets to the shipping_manifest hash below
-  
+  shipping_manifest["pearl necklace"] = 1
 
 
 
